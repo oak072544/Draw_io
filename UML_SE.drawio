@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T08:47:26.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="LcJ97ai47mYZlSQ_c5Or" version="20.8.20" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-13T08:54:28.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OyNU3sYUTmGxaEI_4ihf" version="20.8.20" type="github" pages="5">
   <diagram id="3VWrhjBb-zltgbo5dNTR" name="Use case">
-    <mxGraphModel dx="1222" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="420" dy="231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         </mxCell>
         <mxCell id="gc3N991Mp5eu1_evCTUe-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="gc3N991Mp5eu1_evCTUe-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="247.60000610351562" as="targetPoint" />
+            <mxPoint x="90" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gc3N991Mp5eu1_evCTUe-1" value="แจ้งเตือนคืนของ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -89,11 +89,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u4rTvfeDlOmpdTKJ3xF_" name="Class">
-    <mxGraphModel dx="934" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IpOdExnLuLsjWHMrrgm5-1" target="IpOdExnLuLsjWHMrrgm5-7">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="IpOdExnLuLsjWHMrrgm5-1" target="IpOdExnLuLsjWHMrrgm5-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="655" y="40" />
@@ -115,7 +115,7 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-4" value="รหัสประจำตัวนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="IpOdExnLuLsjWHMrrgm5-1" vertex="1">
           <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-23" value="สถานะการยืม-คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-1">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-23" value="สถานะการยืม-คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="IpOdExnLuLsjWHMrrgm5-1" vertex="1">
           <mxGeometry y="104" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-5" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-1" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-6" value="ระบบยืม-คืนอุปกรณ์ใน Shop" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-1" vertex="1">
           <mxGeometry y="138" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-29" value="ส่งข้อความเตือนการคืนผ่านระบบ" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-1">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-29" value="ส่งข้อความเตือนการคืนผ่านระบบ" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-1" vertex="1">
           <mxGeometry y="164" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-7" value="นักศึกษา" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -135,7 +135,7 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-8" value="รหัสนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-7" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-24" value="ชื่อ-นามสกุล" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-7">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-24" value="ชื่อ-นามสกุล" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-7" vertex="1">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-9" value="ข้อมูลการติดต่อ" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="IpOdExnLuLsjWHMrrgm5-7" vertex="1">
@@ -150,10 +150,10 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-12" value="ยืม - คืน อุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-7" vertex="1">
           <mxGeometry y="138" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IpOdExnLuLsjWHMrrgm5-14" target="IpOdExnLuLsjWHMrrgm5-1">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="IpOdExnLuLsjWHMrrgm5-14" target="IpOdExnLuLsjWHMrrgm5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="IpOdExnLuLsjWHMrrgm5-14" target="IpOdExnLuLsjWHMrrgm5-20">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="IpOdExnLuLsjWHMrrgm5-14" target="IpOdExnLuLsjWHMrrgm5-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-14" value="เจ้าหน้าที่" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
@@ -164,19 +164,19 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-15" value="Admin User" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-14" vertex="1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-27" value="Admin Password" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-14">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-27" value="Admin Password" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-14" vertex="1">
           <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-16" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-14" vertex="1">
           <mxGeometry y="78" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-28" value="ตรวจสอบการยืม-คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-14">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-28" value="ตรวจสอบการยืม-คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-14" vertex="1">
           <mxGeometry y="86" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-26" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-14">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-26" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-14" vertex="1">
           <mxGeometry y="112" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.993;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IpOdExnLuLsjWHMrrgm5-18" target="FzFbDi6EWaJ1E4zKf64Q-29">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0.993;entryY=0.193;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IpOdExnLuLsjWHMrrgm5-18" target="FzFbDi6EWaJ1E4zKf64Q-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="350" as="targetPoint" />
             <Array as="points">
@@ -194,83 +194,83 @@
         <mxCell id="IpOdExnLuLsjWHMrrgm5-19" value="รหัสอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-38" value="รายละเอียดอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-18">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-38" value="รายละเอียดอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-20" value="จำนวนอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-39" value="วัน เวลาที่ยืม-คืนอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-18">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-39" value="วัน เวลาที่ยืม-คืนอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="104" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IpOdExnLuLsjWHMrrgm5-24" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="130" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-37" value="บันทึกจำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="IpOdExnLuLsjWHMrrgm5-18">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-37" value="บันทึกจำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="IpOdExnLuLsjWHMrrgm5-18" vertex="1">
           <mxGeometry y="138" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-10" value="การยืม" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-10" value="การยืม" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="170" height="170" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-11" value="รหัสนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-11" value="รหัสนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-12" value="รหัสอุปกรณ์ที่ยืม" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-12" value="รหัสอุปกรณ์ที่ยืม" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-32" value="จำนวนอุปกรณ์ที่ยืม" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-32" value="จำนวนอุปกรณ์ที่ยืม" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-31" value="วัน เวลาที่ยืมอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-31" value="วัน เวลาที่ยืมอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="104" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="130" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-15" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-10">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-15" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-10" vertex="1">
           <mxGeometry y="138" width="170" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-16" value="การคืน" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-16" value="การคืน" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="310" width="170" height="170" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-17" value="รหัสนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-17" value="รหัสนักศึกษา" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-33" value="รหัสอุปกรณ์ที่คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-33" value="รหัสอุปกรณ์ที่คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="FzFbDi6EWaJ1E4zKf64Q-16" source="FzFbDi6EWaJ1E4zKf64Q-34">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="FzFbDi6EWaJ1E4zKf64Q-16" source="FzFbDi6EWaJ1E4zKf64Q-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="FzFbDi6EWaJ1E4zKf64Q-16" source="FzFbDi6EWaJ1E4zKf64Q-34">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="FzFbDi6EWaJ1E4zKf64Q-16" source="FzFbDi6EWaJ1E4zKf64Q-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-34" value="จำนวนอุปกรณ์ที่คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-34" value="จำนวนอุปกรณ์ที่คืน" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="78" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-35" value="วัน เวลาที่คืนอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-35" value="วัน เวลาที่คืนอุปกรณ์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="104" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="130" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-36" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FzFbDi6EWaJ1E4zKf64Q-16">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-36" value="Update จำนวนอุปกรณ์ในสโตร์" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="FzFbDi6EWaJ1E4zKf64Q-16" vertex="1">
           <mxGeometry y="138" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IpOdExnLuLsjWHMrrgm5-9" target="FzFbDi6EWaJ1E4zKf64Q-32">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IpOdExnLuLsjWHMrrgm5-9" target="FzFbDi6EWaJ1E4zKf64Q-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="FzFbDi6EWaJ1E4zKf64Q-32" target="IpOdExnLuLsjWHMrrgm5-4">
+        <mxCell id="FzFbDi6EWaJ1E4zKf64Q-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.011;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="FzFbDi6EWaJ1E4zKf64Q-32" target="IpOdExnLuLsjWHMrrgm5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
