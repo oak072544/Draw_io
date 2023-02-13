@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T07:26:46.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_bWdw42LRNG9OhJwN2_Y" version="20.8.20" type="github" pages="3">
-  <diagram id="3VWrhjBb-zltgbo5dNTR" name="Page-1">
-    <mxGraphModel dx="1235" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-02-13T07:34:19.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AewnZR7zB5lfnvPiqAj5" version="20.8.20" type="github" pages="5">
+  <diagram id="3VWrhjBb-zltgbo5dNTR" name="Use case">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,18 +77,18 @@
         <mxCell id="y4N2cc2ynRdOrsL_dpse-23" value="อัพเดทจำนวนอุปกรณ์" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gc3N991Mp5eu1_evCTUe-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="gc3N991Mp5eu1_evCTUe-1">
+        <mxCell id="gc3N991Mp5eu1_evCTUe-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="gc3N991Mp5eu1_evCTUe-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="247.60000610351562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gc3N991Mp5eu1_evCTUe-1" value="แจ้งเตือนคืนของ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gc3N991Mp5eu1_evCTUe-1" value="แจ้งเตือนคืนของ" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="u4rTvfeDlOmpdTKJ3xF_" name="Page-2">
+  <diagram id="u4rTvfeDlOmpdTKJ3xF_" name="Class">
     <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -210,7 +210,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EidmPC0uFP7_u0bzcDjT" name="Page-3">
+  <diagram id="EidmPC0uFP7_u0bzcDjT" name="Sequence">
     <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -377,6 +377,22 @@
         <mxCell id="qNVeNEgQSf5O8aHXfbmu-37" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="960" y="30" width="100" height="35" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-vgLSRRuo1_jRNdSqRWT" name="Activity">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iNOxvxUu0UQKGmShVrS2" name="State">
+    <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
