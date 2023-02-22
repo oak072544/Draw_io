@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T09:18:29.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="fv4TUR_EsDgSzqjpRcuO" version="20.8.22" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-22T09:42:21.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="Drjhp15C-2NqAKLTOuLp" version="20.8.22" type="github" pages="5">
   <diagram id="3VWrhjBb-zltgbo5dNTR" name="Use case">
     <mxGraphModel dx="1004" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -597,38 +597,38 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iNOxvxUu0UQKGmShVrS2" name="State">
-    <mxGraphModel dx="989" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x5irtaY8nl82BIYJjmnR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-3" value="แสกน QR Code Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-3" value="เป็นเพื่อนในไลน์" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-7" value="เลือกอุปกรณ์ที่ต้องการยืม" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-7" value="ได้อุปกรณ์ที่ต้องการยืม" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="40" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-1" target="x5irtaY8nl82BIYJjmnR-3">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5irtaY8nl82BIYJjmnR-1" target="x5irtaY8nl82BIYJjmnR-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165" y="85" as="sourcePoint" />
             <mxPoint x="180" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-9" value="ต้องการยืมอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="30" width="110" height="30" as="geometry" />
+        <mxCell id="x5irtaY8nl82BIYJjmnR-9" value="แสกน QR Code ไลน์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-3" target="x5irtaY8nl82BIYJjmnR-7">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5irtaY8nl82BIYJjmnR-3" target="x5irtaY8nl82BIYJjmnR-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="85" as="sourcePoint" />
             <mxPoint x="450" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-11" value="เพิ่มเพื่อนในไลน์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="370" y="30" width="100" height="30" as="geometry" />
+        <mxCell id="x5irtaY8nl82BIYJjmnR-11" value="ไปยืมอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="375" y="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-7" target="x5irtaY8nl82BIYJjmnR-13">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x5irtaY8nl82BIYJjmnR-7" target="x5irtaY8nl82BIYJjmnR-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="80" as="sourcePoint" />
             <mxPoint x="740" y="60" as="targetPoint" />
@@ -637,71 +637,89 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-13" value="ได้รับอุปกรณ์" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-13" value="ข้อมูลในระบบมีการเปลี่ยนแปลง" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-14" value="แสกน QR Code ของอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-14" value="แสกน QR Code ของอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-13" target="x5irtaY8nl82BIYJjmnR-17">
+        <mxCell id="x5irtaY8nl82BIYJjmnR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5irtaY8nl82BIYJjmnR-13" target="x5irtaY8nl82BIYJjmnR-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="260" as="sourcePoint" />
             <mxPoint x="600" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-17" value="นักศึกษาได้รับแจ้งวันและเวลาในการคืนอุปกรณ์" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="160" height="40" as="geometry" />
+        <mxCell id="x5irtaY8nl82BIYJjmnR-17" value="ได้รับข้อความแจ้งเตือนในไลน์" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-18" value="แจ้งวันและเวลาในการคืนอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="110" width="180" height="30" as="geometry" />
+        <mxCell id="x5irtaY8nl82BIYJjmnR-18" value="แจ้งวันและเวลาการคืนอุปกรณ์เข้าไปในไลน์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445" y="110" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-20" value="แจ้งเตือนกำหนดวันและเวลาในการคืนอุปกรณ์" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="160" height="40" as="geometry" />
+        <mxCell id="x5irtaY8nl82BIYJjmnR-37" value="ไปเอาอุปกรณ์ออกจาก Store" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-22" value="คืนอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-23" value="ไม่คืนอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="230" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-24" value="อุปกรณ์อยู่ใน Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-17" target="x5irtaY8nl82BIYJjmnR-20">
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-17" target="YsV3Cci5Wq7rS95o03s_-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="240" as="sourcePoint" />
-            <mxPoint x="450" y="190" as="targetPoint" />
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-20" target="x5irtaY8nl82BIYJjmnR-24">
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-2" value="ได้รับอุปกรณ์" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-3" value="ได้รับข้อความแจ้งเตือน" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YsV3Cci5Wq7rS95o03s_-2" target="YsV3Cci5Wq7rS95o03s_-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-            <mxPoint x="450" y="230" as="targetPoint" />
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-28" value="ส่งแจ้งเตือนเข้าไป Line อีกรอบ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="160" height="40" as="geometry" />
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-5" value="แจ้งเตือนวันและเวลาคืนอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-20" target="x5irtaY8nl82BIYJjmnR-28">
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-7" value="อุปกรณ์ถูกเก็บใน Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YsV3Cci5Wq7rS95o03s_-3" target="YsV3Cci5Wq7rS95o03s_-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="270" as="sourcePoint" />
-            <mxPoint x="450" y="220" as="targetPoint" />
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="240" width="40" height="40" as="geometry" />
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-9" value="นำอุปกรณ์ไปคืน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="730" y="250" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5irtaY8nl82BIYJjmnR-24" target="x5irtaY8nl82BIYJjmnR-31">
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YsV3Cci5Wq7rS95o03s_-7" target="YsV3Cci5Wq7rS95o03s_-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="410" as="sourcePoint" />
-            <mxPoint x="650" y="360" as="targetPoint" />
+            <mxPoint x="650" y="230" as="sourcePoint" />
+            <mxPoint x="680" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5irtaY8nl82BIYJjmnR-37" value="ใกล้ครบกำหนดวันและเวลาในการคืนอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="240" height="30" as="geometry" />
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-11" value="แสกน QR Code ของอุปกรณ์" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YsV3Cci5Wq7rS95o03s_-12" value="ข้อมูลในระบบมีการเปลี่ยนแปลง" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7edPNJUNeBUDz9lAPlcq-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7edPNJUNeBUDz9lAPlcq-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="287.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="7edPNJUNeBUDz9lAPlcq-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YsV3Cci5Wq7rS95o03s_-12" target="7edPNJUNeBUDz9lAPlcq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="210" as="sourcePoint" />
+            <mxPoint x="460" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
